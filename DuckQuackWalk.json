@@ -1,0 +1,11 @@
+    {
+      "chainId": 101,
+      "address": "91n5Kfwe9DenVMVPN7ppNt3tGbzDmKwt1YWXVxjP7fnw",
+      "symbol": "DQW",
+      "name": "DuckQuackWalk",
+      "decimals": 9,
+      "logoURI": "https://github.com/Kemplayt/sdfs/blob/main/DuckQuackWalk.png",
+      "tags": [
+        "social-token"
+      ]
+    },
