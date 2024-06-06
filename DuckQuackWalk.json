@@ -1,11 +1,13 @@
-    {
-      "chainId": 101,
-      "address": "91n5Kfwe9DenVMVPN7ppNt3tGbzDmKwt1YWXVxjP7fnw",
-      "symbol": "DQW",
-      "name": "DuckQuackWalk",
-      "decimals": 9,
-      "logoURI": "https://github.com/Kemplayt/sdfs/blob/main/DuckQuackWalk.gif",
-      "tags": [
-        "social-token"
-      ]
-    },
+{
+    "name": "DuckQuackWalk",
+    "symbol": "DQW",
+    "uri": "https://github.com/Kemplayt/sdfs/blob/main/DuckQuackWalk.gif",
+    "seller_fee_basis_points": 500,
+    "creators": [
+        {
+            "address": "DBM7EYtBjvyCVCaJWLrs4xMJHck1rnoBXA43sZkLrFgN",
+            "verified": true,
+            "share": 100
+        }
+    ]
+}
