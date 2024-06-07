@@ -1,0 +1,13 @@
+{
+    "name": "DuckWalk",
+    "symbol": "DKW",
+    "uri": "https://github.com/Kemplayt/sdfs/blob/main/DuckWalk.gif",
+    "seller_fee_basis_points": 500,
+    "creators": [
+        {
+            "address": "6E1xraniSkKSFFBMDeNSFWRUmw9ukDdEAJ7xksq5CHWW",
+            "verified": true,
+            "share": 100
+        }
+    ]
+}
