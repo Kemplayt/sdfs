@@ -1,13 +1,7 @@
 {
-    "name": "DuckWalk",
-    "symbol": "DKW",
-    "uri": "https://github.com/Kemplayt/sdfs/blob/main/DuckWalk.png",
-    "seller_fee_basis_points": 500,
-    "creators": [
-        {
-            "address": "6E1xraniSkKSFFBMDeNSFWRUmw9ukDdEAJ7xksq5CHWW",
-            "verified": true,
-            "share": 100
-        }
-    ]
+  "name": "DuckWalk",
+  "symbol": "DKW",
+  "description": "A simple duck walking happy",
+  "image": "https://github.com/Kemplayt/sdfs/blob/main/DuckWalk.gif",
+  "attributes": []
 }
